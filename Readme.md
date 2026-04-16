@@ -22,6 +22,7 @@
 
 Для работы тестов нужен OAuth-токен тестового аккаунта Яндекс.Диска (не личного!).  
 Инструкция: [https://yandex.ru/dev/disk/doc/concepts/quickstart-docpage/](https://yandex.ru/dev/disk/doc/concepts/quickstart-docpage/)
+
 ---
 ### 2. Переменная окружения
 
